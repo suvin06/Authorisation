@@ -10,3 +10,4 @@ namespace AuthorizationService.Repository
         public string GenerateJWT(); 
     }
 }
+//test
